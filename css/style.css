@@ -19,3 +19,33 @@
 .pad-10px{
     padding: 10px;
 }
+
+/* Small */
+
+@media screen and (min-width: 576px) {
+
+}
+
+/* Medium */
+
+@media screen and (min-width: 768px) {
+
+}
+
+/* Large */
+
+@media screen and (min-width: 992px) {
+
+}
+
+/* Extra-Large */
+
+@media screen and (min-width: 1200px) {
+
+}
+
+/* Extra-extra-Large */
+
+@media screen and (min-width: 1400px) {
+
+}
