@@ -1,0 +1,21 @@
+.blue-box{
+    background-color: royalblue;
+    height: 50px;
+    border: white 1px solid;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+}
+
+.green-box{
+    background-color: green;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border: royalblue 1px solid;
+    color: white;
+}
+
+.pad-10px{
+    padding: 10px;
+}
