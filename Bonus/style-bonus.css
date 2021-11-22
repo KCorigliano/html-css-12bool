@@ -1,0 +1,12 @@
+.box{
+    height: 40px;
+    width: calc((100% / 12) * 6);
+}
+
+.white{
+    background-color: white;
+}
+
+.black{
+    background-color: black;
+}
